@@ -32,12 +32,16 @@ Once logged in, Users can view and search for products only.
 5. **Search Products**: Search products by name or category.
 6. **Filter by Stock**: Show products that are below a certain stock threshold.
 7. **Adjust Stock (Restock/Reduce)**: Restock or reduce the stock for a specific product.
-8. **Exit**: Exit the IMS system.
+8. **Exit**:
+  
+ Exit the IMS system.
 
 #### User Menu:
 1. **View Products**: View all products in the inventory.
 2. **Search Products**: Search for products by name or category.
-3. **Exit**: Exit the IMS system.
+3. **Exit**:
+   
+Exit the IMS system.
 
 ### Example:
 
@@ -57,6 +61,7 @@ Once logged in, Users can view and search for products only.
 6. Filter by Stock
 7. Adjust Stock (Restock/Reduce)
 8. Exit
+   
 Enter your choice: 1
 
 #### User login:
