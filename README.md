@@ -72,6 +72,7 @@ Enter your choice: 1
 1. View Products
 2. Search Products
 3. Exit
+   
 Enter your choice: 1
 
 ## Code Structure
